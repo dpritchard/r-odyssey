@@ -1,10 +1,10 @@
 Package: odyssey
 Type: Package
-Title: Data file and calibraiton support for Odyssey data loggers
-Version: 0.1.0
-Author: Daniel Pritchard
-Maintainer: daniel.pritchard@otago.ac.nz
+Title: Data file and calibraiton support for Odyssey data loggers.
+Version: 0.0.0.999
+Authors@R: person("Daniel", "Pritchard", , "daniel.pritchard@otago.ac.nz", 
+           role = c("aut", "cre"), comment = c(ORCID = "0000-0001-8335-5971"))
 Description: 
-License: What license is it under?
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

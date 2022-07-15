@@ -1,1 +1,7 @@
-exportPattern("^[[:alpha:]]+")
+export(read_licor)
+export(read_odyssey)
+export(make_odycal)
+
+S3method(plot, odycal)
+S3method(print, odycal)
+S3method(predict, odycal)
