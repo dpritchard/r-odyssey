@@ -1,11 +1,7 @@
-# r-odyssey
+# r-odyssey (Archived)
 
-Data file and calibraiton support for Odyssey (PAR) data loggers.  
+Data file and calibration support for Odyssey (PAR) data loggers.  
 
-The package is under development. Expect things to change! But for now you can use it as follows:
+This package has been superseded by [pmisc](https://github.com/dpritchard/pmisc). Useful code in this package has been migrated there. Please use that from now on.
 
-````r  
-install.packages('devtools')
-devtools::install_github('dpritchard/r-odyssey')
-library(odyssey)
-````  
+This repository will be deleted at some point.
